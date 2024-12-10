@@ -1,1 +1,1 @@
-# SummerCamp
+# summercamp-static
